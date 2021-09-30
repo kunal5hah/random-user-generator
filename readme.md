@@ -1,4 +1,4 @@
-# random-user-generator
+# random-user-generator (VueJS)
 
 ## Build Setup
 
