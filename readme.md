@@ -13,5 +13,3 @@ npm run build
 
 ### review configuration
 npm run inspect
-
-## Made with [vue-cli](https://cli.vuejs.org/).
